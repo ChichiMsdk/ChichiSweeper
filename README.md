@@ -3,10 +3,10 @@
 > Raylib must be compiled with the SVG macro enabled in config.h.
 >  Otherwise some images will not be able to load.
 > 
-This program was tested on a Macbook air M1 on Sonoma and on WSL Ubuntu. 
-A compiled binary of raylib for Mac is in the ```mac``` folder.<br>
-It was developed and tested on Windows 11 using MSVC cl compiler, not mingw's gcc.<br>
-This was just for me to have fun so don't expect this to be organized or even optimized in any way .. <br>
+- This program was tested on a Macbook air M1 on Sonoma and on WSL Ubuntu. 
+- A compiled binary of raylib for Mac is in the ```mac``` folder.<br>
+- It was developed and tested on Windows 11 using MSVC cl compiler, not mingw's gcc.<br>
+<br>This was just for me to have fun so don't expect this to be organized or even optimized in any way .. <br>
 The codebase is a mess, I know it, I simply didn't bother. Any advice is welcome tho.
 # Compilation
 ## Windows
