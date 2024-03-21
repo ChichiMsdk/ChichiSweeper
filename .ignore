@@ -1,0 +1,14 @@
+son/
+son
+son/*
+.ignore
+*.pdb
+*ilk
+.gitignore
+*.json
+build/
+build/*
+.cache/*
+.cache
+Makefile
+src/test

@@ -1,0 +1,13 @@
+compile_commands.json
+.cache
+.cache/*
+.cache/
+*.exe
+*.out
+demineur
+build/
+*.pdb
+*.ilk
+src/test
+*.llc
+*.rdbg
