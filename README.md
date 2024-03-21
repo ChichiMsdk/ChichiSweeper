@@ -1,3 +1,4 @@
+
 # A little bit less boring minesweeper using raylib
 > [!IMPORTANT]
 > Raylib must be compiled with the SVG macro enabled in config.h.
@@ -6,7 +7,10 @@
 - This program was tested on a Macbook air M1 on Sonoma and on WSL Ubuntu. 
 - A compiled binary of raylib for Mac is in the ```mac``` folder.<br>
 - It was developed and tested on Windows 11 using MSVC cl compiler, not mingw's gcc.<br><br>
-This was just for me to have fun so don't expect this to be organized or even optimized in any way .. <br>
+This was just for me to have fun so don't expect this to be organized or even optimized in any way .. <br><br>
+
+<video src="https://github.com/ChichiMsdk/ChichiSweeper/assets/111235918/780bad6d-23c8-4160-9d36-02c5d2bb3e74"></video><br>
+
 The codebase is a mess, I know it, I simply didn't bother. Any advice is welcome tho.
 # Compilation
 ## Windows
