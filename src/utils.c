@@ -112,8 +112,8 @@ void set_txt(c_square grid[NUMBER_Y][NUMBER_Y])
   	grid[0][0].sqTxt->cats[3] = LoadTexture("atlas/crycat_sprite93.png");
 	grid[0][0].sqTxt->cats[4] = LoadTexture("atlas/normalcat_sprite73.png");
 	grid[0][0].sqTxt->cats[5] = LoadTexture("atlas/CatSprite.png");
-	grid[0][0].sqTxt->cats[6] = LoadTexture("atlas/heartEyesCat_sprite72.png");
-	grid[0][0].sqTxt->cats[7] = LoadTexture("atlas/heartkisscat_sprite73.png");
+	grid[0][0].sqTxt->cats[6] = LoadTexture("atlas/heartkisscat_sprite73.png");
+	grid[0][0].sqTxt->cats[7] = LoadTexture("atlas/heartEyesCat_sprite72.png");
 
 	grid[0][0].sqTxt->cat_frame.y = 0;
 	grid[0][0].sqTxt->cat_frame.x = 0;
