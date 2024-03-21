@@ -30,11 +30,15 @@ these are never gonna happen btw
 
 int	main(void)
 {
-	#ifdef __SANITIZE_ADDRESS__
-        printf("Address sanitizer enabled\n");
-    #else
-        printf("Address sanitizer not enabled\n");
-    #endif
+#ifdef __SANITIZE_ADDRESS__
+	printf("Address sanitizer enabled\n");
+#else
+	printf("Address sanitizer not enabled\n");
+#endif
+
+#ifndef DEBUG
+	SetTraceLogLevel(LOG_ERROR);
+#endif
 
 	float deltaTime; Camera2D camera; squareTxt gridTxt; sfx sound; bp old;
 	Vector2 mousePos;
