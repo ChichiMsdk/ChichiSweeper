@@ -30,3 +30,5 @@ Press `r` to reset the game.<br>
 Same reason this repo is a bit heavy. Sorry I was kinda lazy on that part and just wanted to finish the game somehow.<br>
 - It's a god damn memory hog, I malloc once but the struct is full of crap .. ( around 200 mb ram and yes this is not electron but C ..)
 - A game never ends; you have to manually press `r` to reset it, even if you flagged every possible bomb<br>
+# Licences
+tobedone
