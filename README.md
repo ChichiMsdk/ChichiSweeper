@@ -38,8 +38,11 @@ Same reason this repo is a bit heavy. Sorry I was kinda lazy on that part and ju
 - A game never ends; you have to manually press `r` to reset it, even if you flagged every possible bomb<br>
 
 # Credits
-- ![newlocknew](https://freesound.org/people/newlocknew/) for the SFX when revealing tiles:
+- ![raysan](https://github.com/raysan5) for the library ![raylib](https://github.com/raysan5/raylib)
+<br><br>
+- ![newlocknew](https://freesound.org/people/newlocknew/) slightly modified for the SFX when revealing tiles:
     -   UI_7 Confusion blip 2(Sytrus,arpegio,multiprocessing,rsmpl).wav
     -   UI_3-21FHSandal sinus(Sytrus,arpegio,multiprocessing,rsmpl).wav
     -   UI_3-2 FHSandal sinus(Sytrus,arpegio,multiprocessing,rsmpl).wav
     -   UI_1 Sweet saw(Sytrus,arpegio,multiprocessing,rsmpl).wav
+
