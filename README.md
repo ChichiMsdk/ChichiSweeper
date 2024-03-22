@@ -34,7 +34,7 @@ Press `r` to reset the game.<br>
 # Known issues
 - It takes quite a long time for the game to load because I simply load a lot of textures that aren't optimized at all.<br>
 Same reason this repo is a bit heavy. Sorry I was kinda lazy on that part and just wanted to finish the game somehow.<br>
-- It's a god damn memory hog, I malloc once but the struct is full of crap .. ( around 200 mb ram and yes this is not electron but C ..)
+- It's a god damn memory hog, I malloc once but the struct is full of crap .. ( around 200 mb ram with fsan, 80 mb without and yes this is not electron but C ..)
 - A game never ends; you have to manually press `r` to reset it, even if you flagged every possible bomb<br>
 
 # Credits
