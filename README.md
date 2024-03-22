@@ -10,7 +10,7 @@
 This was just for me to have fun so don't expect this to be organized or even optimized in any way .. <br><br>
 ## Demo
 <div align="center">
-<video src="https://github.com/ChichiMsdk/ChichiSweeper/assets/111235918/780bad6d-23c8-4160-9d36-02c5d2bb3e74"></video><br>
+<video src="https://github.com/ChichiMsdk/ChichiSweeper/assets/111235918/22517ff7-6e4b-4c5c-a68e-1b8ee5c8c35d"></video><br>
 </div>
 The codebase is a mess, I know it, I simply didn't bother. Any advice is welcome tho.
 
