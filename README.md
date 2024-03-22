@@ -10,7 +10,7 @@
 This was just for me to have fun so don't expect this to be organized or even optimized in any way .. <br><br>
 ## Demo
 <div align="center">
-<video src="https://github.com/ChichiMsdk/ChichiSweeper/assets/111235918/22517ff7-6e4b-4c5c-a68e-1b8ee5c8c35d"></video><br>
+<video src="https://github.com/ChichiMsdk/ChichiSweeper/assets/111235918/84a0bf4b-d224-427a-80ae-9b968bd0c3e1"></video><br>
 </div>
 The codebase is a mess, I know it, I simply didn't bother. Any advice is welcome tho.
 
@@ -45,4 +45,8 @@ Same reason this repo is a bit heavy. Sorry I was kinda lazy on that part and ju
     -   UI_3-21FHSandal sinus(Sytrus,arpegio,multiprocessing,rsmpl).wav
     -   UI_3-2 FHSandal sinus(Sytrus,arpegio,multiprocessing,rsmpl).wav
     -   UI_1 Sweet saw(Sytrus,arpegio,multiprocessing,rsmpl).wav
+
+
+
+
 
