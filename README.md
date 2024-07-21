@@ -1,4 +1,3 @@
-
 # A little bit less boring minesweeper using raylib
 > [!IMPORTANT]
 > Raylib must be compiled with the SVG macro enabled in config.h.
